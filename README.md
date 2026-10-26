@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrew! 
 
-<!--
-**Andrewrusu02/Andrewrusu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code, shoot videos, and try to make local servers get along with artificial intelligence. 
 
-Here are some ideas to get you started:
+- 💻 **What I do:** I turn massive amounts of coffee into full-stack applications and open-source projects.
+- 🎥 **AFK:** If I'm not doing a `git push`, I'm probably flying a drone, editing on DaVinci Resolve, or telling sports stories. 
+- 🤖 **Superpower:** Running AI models on my local NAS without tripping the power breaker.
+- ⚡ **Fun fact:** My code always compiles on the first try. (I lied).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Find me here:**
+- 🌐 [ggally.net](https://www.ggally.net/)
+- 🎙️ [ioleggendablog.it](https://ioleggendablog.it)
+- ✉️ iosonoleggenda964@gmail.com
