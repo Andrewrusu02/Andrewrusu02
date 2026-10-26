@@ -10,4 +10,3 @@ I write code, shoot videos, and try to make local servers get along with artific
 **Find me here:**
 - 🌐 [ggally.net](https://www.ggally.net/)
 - 🎙️ [ioleggendablog.it](https://ioleggendablog.it)
-- ✉️ iosonoleggenda964@gmail.com
